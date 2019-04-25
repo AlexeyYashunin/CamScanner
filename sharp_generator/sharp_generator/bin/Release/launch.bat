@@ -1,0 +1,1 @@
+sharp_generator.exe C:\Test\test.pdf
